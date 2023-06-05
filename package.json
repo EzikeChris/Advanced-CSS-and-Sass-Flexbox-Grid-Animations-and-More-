@@ -1,0 +1,25 @@
+{
+  "name": "sass-node",
+  "version": "1.0.0",
+  "description": "Advanced course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzikeChris/Advanced-CSS-and-Sass-Flexbox-Grid-Animations-and-More-.git"
+  },
+  "keywords": [
+    "Node-Sass"
+  ],
+  "author": "EzikeChris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzikeChris/Advanced-CSS-and-Sass-Flexbox-Grid-Animations-and-More-/issues"
+  },
+  "homepage": "https://github.com/EzikeChris/Advanced-CSS-and-Sass-Flexbox-Grid-Animations-and-More-#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
